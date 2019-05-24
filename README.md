@@ -15,5 +15,5 @@ https://firewall/api/?type=keygen&user=username&password=password
 
 Optionally, you can set a Windows scheduled task to run powershell.exe.
 
-Add arguments: -executionpolicy bypass .\backup-pan.ps1
-Start in: [path of your script]
+* Add arguments: -executionpolicy bypass .\backup-pan.ps1
+* Start in: [path of your script]
